@@ -1,0 +1,4 @@
+*.o
+/resouce
+/ManagerOS-build-*
+ManagerOS/*.user
